@@ -10,11 +10,11 @@
 
 3. Собрали образ 
 
-![alt text](img1.png)
+![alt text](img2.png)
 
 4. Запустили для проверки контейнер, проверили, что при обращении по адресу [http://localhost:1234/](http://localhost:1234/) возвращается "Привет мир!" 
 
-![alt text](img2.png)
+![alt text](img1.png)
 
 5. Написали docker-compose.yml, запустили для проверки.
 
